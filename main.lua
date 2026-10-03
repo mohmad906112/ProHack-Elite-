@@ -1,4 +1,3 @@
--- Protected by Mnx Obfuscator | Public Enemy
 local ucpD22eEk=string.len("ian15K1pdo")
 local ni23yMbM9bvsFRYk5Y=math.floor(0)
 local rjwhZ9Zu5ZNpeDoIK=671
